@@ -1,6 +1,6 @@
 # Stats-preview-card-component
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor] (https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62" target="_blank">Stats preview card component challenge on Frontend Mentor.</a> 
 
 Here is a programmed Stats preview card component.
 
