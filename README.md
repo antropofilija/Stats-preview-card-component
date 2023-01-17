@@ -1,6 +1,6 @@
 # Stats-preview-card-component
 
-Using HTML and CSS there is programmed design, according to the provided photo from https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor] (https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 Here is a programmed Stats preview card component.
 
@@ -18,3 +18,9 @@ For the photo |background| color was being used *mix-blend-mode*.
 
 <br>
       
+      <h3>
+        Built with
+        <br>
+        <li> Semantic HTML5 markup
+        <li>CSS custom properties
+              
