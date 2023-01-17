@@ -1,10 +1,6 @@
 # Stats-preview-card-component
 
-This is a solution to the <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62" target="_blank">Stats preview card component challenge on Frontend Mentor.</a> 
-
-Here is a programmed Stats preview card component.
-
-For the photo |background| color was being used *mix-blend-mode*.
+This is a solution to the <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62" target="_blank">Stats preview card component challenge on Frontend Mentor.</a> Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 
 <h1> OVERVIEW
