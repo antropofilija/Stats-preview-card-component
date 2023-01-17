@@ -18,9 +18,9 @@ For the photo |background| color was being used *mix-blend-mode*.
 
 <br>
       
-      <h3>
-        Built with
-        <br>
-        <li> Semantic HTML5 markup
-        <li>CSS custom properties
+ <h3>   Built with
+      <br>
+  
+       - Semantic HTML5 markup
+       - CSS custom properties
               
